@@ -6,4 +6,4 @@ A recreation of Vogue magazine's homepage
 - CSS
 
 # Live Demo
-https://htmlpreview.github.io/?
+https://htmlpreview.github.io/?https://github.com/MsMutinda/Vogue-clone/blob/master/vogue.html
