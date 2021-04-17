@@ -5,5 +5,3 @@ A recreation of Vogue magazine's homepage
 - HTML
 - CSS
 
-# Live Demo
-https://htmlpreview.github.io/?https://github.com/MsMutinda/Vogue-clone/blob/master/vogue.html
