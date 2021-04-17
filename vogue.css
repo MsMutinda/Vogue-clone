@@ -1,19 +1,19 @@
 .top {
-    height: 61px;
-    font-size: 40px;
+  height: 60px;
+  font-size: 40px;
 }
 
 .gray {
-    font-style: normal;
-    color: grey;
-    font-size: 16px;
+  font-style: normal;
+  color: grey;
+  font-size: 16px;
 }
 
 .row a {
-    color: black;
+  color: black;
 }
 
 .row a:hover {
-    color: grey;
-    text-decoration: none; 
+  color: grey;
+  text-decoration: none;
 }
